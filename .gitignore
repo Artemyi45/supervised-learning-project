@@ -8,3 +8,4 @@ yandex_p3/
 # Временные файлы
 __pycache__/
 *.tmp
+.vscode/
