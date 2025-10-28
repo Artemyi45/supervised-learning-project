@@ -1,0 +1,5 @@
+{
+    "code-runner.executorMap": {
+        "python": "$workspaceFolder/../../yandex_p/bin/python3 -u"
+    }
+}
